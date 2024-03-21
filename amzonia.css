@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 500px;
+    padding: 0px 0px 0px 0px;
+    background-color: rgb(251, 251, 249);
+    text-align: center; 
+}
+h1 {    
+    font-size: 2em;
+    color: black;
+    text-align:center;
+    margin-left:center;
+    padding: 0px 0px 0px 0px;
+}
+        
+div {
+     width: 300px;
+     height: 200
+     border: 1px;
+     display::flex;
+     align-content: center;
+     justify-content: center;
+     align-items: center;
+     padding: 10px 10px 10px 10px;
+     text-align: center;
+}
+
+.box {
+     width: 300px;
+     height: 100px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 1px 1px 1px 1px;
+}
